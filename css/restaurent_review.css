@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+#reataurent_wrapper
+{
+margin:0px auto;
+height:1500px;
+width:1023px;
+/*border:1px #999999 solid;*/
+margin-top:10px;
+margin-bottom:10px;
+}
+#restaurent_name
+{
+float:left;
+height:130px;
+width:985px;
+margin-left:20px;
+font-family:"myriad Pro";
+font-size:18px;
+font-weight:700;
+border-bottom:1px solid #CCCCCC;
+}
+#restaurent_pic
+{
+float:left;
+height:100px;
+width:100px;
+margin-left:10px;
+font-family:"myriad Pro";
+font-size:18px;
+font-weight:700;
+border:1px solid #999999;
+margin-top:15px;
+}
+#restaurent_title
+{
+float:left;
+height:115px;
+width:800px;
+margin-left:10px;
+font-family:"myriad Pro";
+font-size:18px;
+font-weight:700;
+padding-top:15px;
+padding-left:10px;
+}
+#restaurent_review_form
+{
+float:left;
+height:670px;
+width:985px;
+margin-left:20px;
+font-family:"myriad Pro";
+font-size:18px;
+font-weight:normal;
+padding-top:15px;
+padding-left:10px;
+}
+#rating_panel
+{
+float:left;
+height:80px;
+width:985px;
+font-family:"myriad Pro";
+font-size:18px;
+font-weight:normal;
+padding-top:10px;
+}
+.part1
+{
+float:left;
+height:80px;
+width:300px;
+}
+.part2
+{
+float:left;
+height:80px;
+width:300px;
+}

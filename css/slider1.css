@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+/***** slider *****/
+.slider-wrapper {
+	width:987px;
+	height:411px;
+	z-index:-10;
+	background:url(../images/slider-bg.png) 0 0 no-repeat;
+	
+	
+}
+.slider {
+	width:987px;
+	height:411px;
+}
+.items {display:none;}
+
+/*********************************content*************************************/

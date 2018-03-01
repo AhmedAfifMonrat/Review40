@@ -1,0 +1,55 @@
+<html>
+<body>
+<head>
+
+<style type="text/css">
+/*             styles for the star rater                */
+.star-rating{
+	list-style:none;
+	margin: 0px;
+	padding:0px;
+	width: 100px;
+	height: 20px;
+	position: relative;
+	background: url(star_rating.gif) top left repeat-x;		
+}
+.star-rating li{
+	padding:0px;
+	margin:0px;
+	/*\*/
+	float: left;
+	/* */
+}
+.star-rating li a{
+	display:block;
+	width:20px;
+	height: 20px;
+	text-decoration: none;
+	text-indent: -9000px;
+	z-index: 20;
+	position: absolute;
+	padding: 0px;
+}
+
+.star-rating a.two-stars{
+	left: 0px;
+	width:40px;
+	background: url(star_rating.gif) left bottom;
+	z-index: 1;
+}
+
+</style>		
+</head>
+<body>
+<div id="star">
+<ul class='star-rating'>
+  <li><a  title='Rate this 1 star out of 5' class='one-star'></a></li>
+  <li><a  title='Rate this 2 stars out of 5' class='two-stars' ></a></li>
+  <li><a title='Rate this 3 stars out of 5' class='three-stars' ></a></li>
+  <li><a title='Rate this 4 stars out of 5' class='four-stars' ></a></li>
+  <li><a title='Rate this 5 stars out of 5' class='five-stars' ></a></li>
+</ul>
+</div>
+</body>
+</html>
+		

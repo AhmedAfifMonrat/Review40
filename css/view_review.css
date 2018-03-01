@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+#view_title
+{
+float:left;
+height:90px;
+width:985px;
+padding-top:10px;
+margin-left:20px;
+font-family:"myriad Pro";
+}
+#view_main
+{
+float:left;
+height:360px;
+width:985px;
+margin-left:20px;
+font-family:"myriad Pro";
+}
+#view_main_part1
+{
+float:left;
+height:339px;
+width:500px;
+border:1px solid #CCCCCC;
+}
+#view_main_part2
+{
+float:left;
+height:350px;
+width:480px;
+font-family:"myriad Pro";
+font-size:16px;
+font-weight:700;
+color:#666666;
+}
+#view_details
+{
+float:left;
+height:200px;
+width:985px;
+margin-left:20px;
+font-family:"myriad Pro";
+}
+.view_about
+{
+float:left;
+height:200px;
+width:500px;
+color:#000000;
+font-family:"Myriad Pro";
+font-size:14px;
+}
+.view_amenities
+{
+float:left;
+height:200px;
+width:200px;
+}
+.view_add
+{
+float:left;
+height:200px;
+width:200px;
+margin-left:70px;
+border:1px solid #CCCCCC;
+}
+#reviews
+{
+float:left;
+height:1480px;
+width:985px;
+margin-left:20px;
+font-family:"myriad Pro";
+}

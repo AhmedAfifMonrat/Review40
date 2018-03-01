@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+#review_card_status
+{
+float:left;
+margin-left:20px;
+margin-top:10px;
+width:985px;
+height:250px;
+font-family:"myriad Pro";
+font-size:14px;
+
+}
+.card
+{
+float:left;
+width:270px;
+height:230px;
+margin-top:10px;
+margin-bottom:10px;
+font-family:"myriad Pro";
+font-size:30px;
+text-align:center;
+color:#FF3300;
+
+}
+.review40_card
+{
+float:left;
+background-color:#ffffff;
+height:150px;
+width:268px;
+margin-top:15px;
+background-image:url(../images/review-card.png);
+
+}
+.status
+{
+float:left;
+width:420px;
+height:230px;
+margin-top:10px;
+margin-bottom:10px;
+font-family:"myriad Pro";
+font-size:20px;
+margin-left:15px;
+}
+#review_add
+{
+float:left;
+width:250px;
+height:230px;
+margin-top:10px;
+margin-bottom:10px;
+font-family:"myriad Pro";
+font-size:18px;
+font-weight:700;
+margin-left:15px;
+border:1px solid #CCCCCC;
+}
+#Affiliated_members
+{
+float:left;
+margin-left:20px;
+margin-top:10px;
+width:985px;
+height:480px;
+font-family:"myriad Pro";
+font-size:16px;
+}

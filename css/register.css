@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+#register_wrap
+{
+margin:0px auto;
+height:1399px;
+width:1023px;
+/*border:1px #999999 solid;*/
+margin-top:10px;
+margin-bottom:10px;
+}
+#register_details
+{
+float:left;
+height:700px;
+width:1023px;
+background-color:#FFFFFF;
+margin-top:20px;
+}
+#sign_up_details
+{
+float:left;
+height:700px;
+width:723px;
+}
+.sign_up_note
+{
+float:left;
+height:30px;
+width:696px;
+padding-left:27px;
+font-family:"Open Sans";
+font-size:24px;
+font-weight:500px;
+color:#E13300;
+}
+.sign_up_info
+{
+float:left;
+height:640px;
+width:696px;
+padding-left:27px;
+font-family:"myriad Pro";
+font-size:16px;
+font-weight:500px;
+margin-top:20px;
+}
+#register_black_bottom_border
+{
+float:left;
+width:987px;
+height:8px;
+background-color:#000000;
+margin-top:20px;
+margin-left:18px;
+}
+#register_adds_1
+{
+float:left;
+border:1px #999999 solid;
+height:250px;
+width:250px;
+margin-left:25px;
+}
+#register_adds_2
+{
+float:left;
+border:1px #999999 solid;
+height:250px;
+width:250px;
+margin-left:25px;
+margin-top:15px;
+}
